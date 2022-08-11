@@ -34,7 +34,7 @@ o	NZBDir: /mnt/wd10tb/Usenet-Linux/nzb
 https://sonarr.tv/#downloads-v3-linux
 Change username and group to jloveless123 during installation
 Add Download Clients (NZBGet)
-Add Indexers (Newznab > NZBGeek)
+Add Indexers (Newznab > NZBGeek, Newznab > NZBFinder)
 •	Get information from nzbgeek.info
 
 ##Radarr
